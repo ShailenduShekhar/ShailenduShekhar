@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShailenduShekhar
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning basics of web dev
-- 💞️ I’m looking to collaborate on any kind of bioinformatics project that requires web development skills
+- 👀 I’m interested in developing Bioinformatic workflows
+- 🌱 I’m currently in the process of learning machine learning and data engineering concepts
+- 💞️ I’m looking to collaborate on any kind of bioinformatics project that requires development, benchmarking or testing of bioinformatic workflows
 - 📫 How to reach me : Just text me here.
 
 <!---
